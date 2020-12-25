@@ -1,0 +1,10 @@
+/* Set minimum wrapper in case the content is short*/
+.page-wrapper {
+  position: relative;
+  min-height: 100vh;
+}
+
+/* This is to prevent footer overlap content */
+.content-wrapper {
+  padding-bottom: 6rem;
+}

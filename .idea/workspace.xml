@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a034369d-88aa-4ba1-aa44-d1b37b7b261a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hello-world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gatsby-browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/Space.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Catamaran-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Catamaran-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/linkedin.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/n2tp-bw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/n2tp-vertical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/n2tp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile-images/luan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile-images/nguyet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile-images/nhung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile-images/phong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile-images/tuan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/founder-profile/founder-profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/founder-profile/founder-profile.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/map/leaflet-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/map/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/map/map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/styled-container/styled-container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/styled-container/styled-container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/layout/layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/about/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/contact/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/team/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/team/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lsyyh046rZjsk0eqEHRaQMjRZL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component/title" />
+      <recent name="$PROJECT_DIR$/src/component/styled-container/title" />
+      <recent name="$PROJECT_DIR$/src/layout/header" />
+      <recent name="$PROJECT_DIR$/src/layout/footer" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a034369d-88aa-4ba1-aa44-d1b37b7b261a" name="Default Changelist" comment="" />
+      <created>1608400350174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608400350174</updated>
+      <workItem from="1608400351329" duration="402000" />
+      <workItem from="1608443004993" duration="3838000" />
+      <workItem from="1608446859610" duration="27342000" />
+      <workItem from="1608519738613" duration="18601000" />
+      <workItem from="1608607139610" duration="27864000" />
+      <workItem from="1608694153758" duration="1876000" />
+      <workItem from="1608717103234" duration="616000" />
+      <workItem from="1608732606011" duration="610000" />
+      <workItem from="1608786187636" duration="12633000" />
+      <workItem from="1608828304141" duration="6287000" />
+      <workItem from="1608872309000" duration="7367000" />
+      <workItem from="1608894751315" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

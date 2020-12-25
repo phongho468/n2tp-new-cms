@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+* {
+  font-family: "Calibri", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-stretch: ultra-expanded;
+  @media (max-width: 992px) {
+    font-size: 15px;
+  }
+}

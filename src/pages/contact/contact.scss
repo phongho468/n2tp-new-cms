@@ -1,0 +1,24 @@
+$contact-wrapper: #238BC1;
+
+.contact {
+  color: white;
+  background-color: $contact-wrapper;
+  hr {
+    background-color: white;
+  }
+}
+
+.sns-logo {
+  font-size: 2rem;
+  color: white;
+  &:hover {
+    color: white;
+  }
+}
+
+.map {
+  background-color: grey;
+  Map {
+    height: 500px;
+  }
+}
