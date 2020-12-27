@@ -17,8 +17,8 @@ $contact-wrapper: #238BC1;
 }
 
 .map {
-  background-color: grey;
-  Map {
-    height: 500px;
+  background-color: $contact-wrapper;
+  @media (max-width: 767px) {
+    height: 300px;
   }
 }

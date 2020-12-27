@@ -3,11 +3,10 @@ import "./smartdose-brand.scss"
 
 export default class SmartDoseBrand extends React.Component {
   render() {
-    const superText = "AI"
     return (
-      <div className="smartdose">
-        <p>SmartDose AI</p>
-      </div>
+      <span>
+        <span className="smart-dose">SmartDose</span> <span className="ai"><sup>AI</sup></span>
+      </span>
     )
   }
 }

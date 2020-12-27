@@ -58,8 +58,11 @@ export default class Contact extends React.Component {
                 </a>
               </Col>
 
-              <Col xs={12} md={6} xl={8} className="map">
-                <LeafletMap popUpText={pageContent.companyName} coordinate={pageContent.position}/>
+              <Col xs={12} md={6} xl={8} className="map py-3">
+                <LeafletMap
+                  popUpText={pageContent.companyName}
+                  coordinate={pageContent.position}
+                />
               </Col>
           </Row>
         </Container>

@@ -1,15 +1,9 @@
-.smartdose {
-  @font-face {
-    font-family: "Catamaran-Black";
-    src: url("../../assets/fonts/Catamaran-Black.ttf");
-  }
-  p {font-family: "Catamaran-Black", sans-serif;}
+@import "typography";
+
+.smart-dose {
+  font-family: "Catamaran-ExtraBold", sans-serif;
 }
 
 .ai {
-  @font-face {
-    font-family: "Catamaran-Light";
-    src: url("../../assets/fonts/Catamaran-Light.ttf");
-  }
-  font-family: "Catamaran-Light", sans-serif;
+  font-family: "Catamaran-Medium", sans-serif;
 }
