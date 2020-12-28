@@ -1,0 +1,15 @@
+.error-image {
+  @media (max-width: 768px) {
+    height: 25rem;
+  }
+  @media (max-width: 576px) {
+    height: 15rem;
+  }
+}
+
+.error-title {
+  font-size: 3rem;
+  @media (max-width: 576px) {
+    font-size: 1.5rem;
+  }
+}

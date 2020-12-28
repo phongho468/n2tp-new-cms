@@ -2,22 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a034369d-88aa-4ba1-aa44-d1b37b7b261a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Catamaran-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/fonts/Catamaran-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/404.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logos/smartdose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/landing-page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Catamaran-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/fonts/Catamaran-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/map/leaflet-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/map/leaflet-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/map/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/map/map.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/map/map.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/smartdose/smartdose-brand.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/contact.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/smartdose/typography.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logos/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logos/linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +59,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/component/image-card" />
       <recent name="$PROJECT_DIR$/src/component/title" />
       <recent name="$PROJECT_DIR$/src/component/styled-container/title" />
       <recent name="$PROJECT_DIR$/src/layout/header" />
       <recent name="$PROJECT_DIR$/src/layout/footer" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,9 +86,6 @@
       <workItem from="1608828304141" duration="6287000" />
       <workItem from="1608872309000" duration="7367000" />
       <workItem from="1608894751315" duration="538000" />
-      <workItem from="1608994013934" duration="392000" />
-      <workItem from="1608994443790" duration="4035000" />
-      <workItem from="1609054056035" duration="3683000" />
     </task>
     <servers />
   </component>
