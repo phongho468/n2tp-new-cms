@@ -17,9 +17,9 @@ class StyledContainerBody extends React.Component {
   render() {
     const { children } = this.props
     return (
-      <p className="body px-lg-5 pt-5">
+      <div className="body px-lg-5 pt-5">
         { children }
-      </p>
+      </div>
     )
   }
 }

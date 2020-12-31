@@ -36,7 +36,12 @@ class LeafletMap extends React.Component {
     });
 
     let marker = L.marker(this.props.coordinate).addTo(myMap)
-    marker.bindPopup(this.props.popUpText).openPopup()
+    marker.bindPopup(this.props.popUpText)
+
+    /* To make sure the div is rendered before the map, otherwise the map will not
+    * fully rendered. If the map still not fully rendered, increase timeout. Ref:
+    * https://github.com/Leaflet/Leaflet/issues/4835 */
+    setTimeout(function(){ myMap.invalidateSize()}, 100);
   }
 
   render() {

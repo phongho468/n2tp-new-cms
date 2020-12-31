@@ -1,6 +1,7 @@
 import React from "react"
 import { Image } from "react-bootstrap"
 import "./founder-profile.scss"
+import PropTypes from "prop-types"
 
 class FounderProfile extends React.Component {
   render() {
@@ -15,6 +16,13 @@ class FounderProfile extends React.Component {
       </div>
     )
   }
+}
+
+FounderProfile.propTypes = {
+  image: PropTypes.string,
+  alt: PropTypes.string,
+  name: PropTypes.string,
+  title: PropTypes.string
 }
 
 export default FounderProfile

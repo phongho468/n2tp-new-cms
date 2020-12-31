@@ -14,6 +14,16 @@ export default class Home extends React.Component {
   render() {
     return (
       <Layout>
+        {/* The stripes are absolute positioned and are full-screen width
+         so I put them in the most parent element */}
+
+        <div id="top-stripe" />
+        <div id="bottom-stripe" />
+        <div id="bottom-stripe-2" />
+        <div id="bottom-stripe-3" />
+
+        {/* The body is from here */}
+
         <div className="jumbotron-wrapper mt-5 pt-lg-5">
           <div className="left-side text-center my-auto">
             <div className="smart-dose-text">

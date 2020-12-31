@@ -13,7 +13,9 @@ export default class About extends React.Component {
           </StyledContainer.Title>
 
           <StyledContainer.Body>
-            { pageContent.body }
+            <p>
+              { pageContent.body }
+            </p>
           </StyledContainer.Body>
         </StyledContainer>
       </Layout>

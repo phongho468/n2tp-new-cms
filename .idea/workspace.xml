@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a034369d-88aa-4ba1-aa44-d1b37b7b261a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/banner-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/illustrations/feature-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logos/smartdose.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/404.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/landing-page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logos/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logos/linkedin.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/jumbotron/jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/founder-profile/founder-profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/founder-profile/founder-profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/map/leaflet-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/map/leaflet-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/map/map.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/map/map.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/styled-container/styled-container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/styled-container/styled-container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/about/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/about/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/landing-page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/landing-page.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lynx-dose-frontend" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
@@ -86,7 +78,25 @@
       <workItem from="1608828304141" duration="6287000" />
       <workItem from="1608872309000" duration="7367000" />
       <workItem from="1608894751315" duration="538000" />
+      <workItem from="1609256706022" duration="1119000" />
+      <workItem from="1609322034265" duration="11189000" />
+      <workItem from="1609388562236" duration="7383000" />
     </task>
+    <task id="LOCAL-00001" summary="first draft of everything">
+      <created>1609170604622</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609170604622</updated>
+    </task>
+    <task id="LOCAL-00002" summary="deleted few unnecessary assets">
+      <created>1609170686747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609170686747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +115,11 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first draft of everything" />
+    <MESSAGE value="deleted few unnecessary assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted few unnecessary assets" />
   </component>
 </project>
